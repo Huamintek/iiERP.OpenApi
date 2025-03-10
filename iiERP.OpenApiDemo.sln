@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iiERP.OpenApiDemo", "iiERP.OpenApiDemo.csproj", "{8360B61E-725C-4FFA-971F-D87047291900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8360B61E-725C-4FFA-971F-D87047291900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8360B61E-725C-4FFA-971F-D87047291900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8360B61E-725C-4FFA-971F-D87047291900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8360B61E-725C-4FFA-971F-D87047291900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152B3073-2E7F-4561-A7BB-83E14603B57E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.0.0.2:8080/tfs/iierp2017
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = iiERP.OpenApiDemo.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
