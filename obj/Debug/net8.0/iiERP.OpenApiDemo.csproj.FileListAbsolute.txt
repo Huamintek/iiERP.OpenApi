@@ -1,0 +1,14 @@
+D:\Programs\iiERP.OpenApiDemo\bin\Debug\net8.0\iiERP.OpenApiDemo.exe
+D:\Programs\iiERP.OpenApiDemo\bin\Debug\net8.0\iiERP.OpenApiDemo.deps.json
+D:\Programs\iiERP.OpenApiDemo\bin\Debug\net8.0\iiERP.OpenApiDemo.runtimeconfig.json
+D:\Programs\iiERP.OpenApiDemo\bin\Debug\net8.0\iiERP.OpenApiDemo.dll
+D:\Programs\iiERP.OpenApiDemo\bin\Debug\net8.0\iiERP.OpenApiDemo.pdb
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\iiERP.OpenApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\iiERP.OpenApiDemo.AssemblyInfoInputs.cache
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\iiERP.OpenApiDemo.AssemblyInfo.cs
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\iiERP.OpenApiDemo.csproj.CoreCompileInputs.cache
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\iiERP.OpenApiDemo.dll
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\refint\iiERP.OpenApiDemo.dll
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\iiERP.OpenApiDemo.pdb
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\iiERP.OpenApiDemo.genruntimeconfig.cache
+D:\Programs\iiERP.OpenApiDemo\obj\Debug\net8.0\ref\iiERP.OpenApiDemo.dll
