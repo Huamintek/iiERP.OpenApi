@@ -7,11 +7,10 @@ using System.Net.Http;
 
 /*
  * This is the project that privoides guidance on how to request Huamintek API interface
- * Reference: https://api-doc.iierp.com
  */
 
 //Initialization parameters
-var host = "<Huamintek host url>";
+var host = "<host url>";
 string appKey = "<Your app key here>";
 
 #region 1. Get key Info
@@ -83,7 +82,7 @@ if (!string.IsNullOrWhiteSpace(accessToken))
 {
     using (HttpClient client = new HttpClient())
     {
-        url = $"{host}/api/User/GetUserInfo";
+        url = $"{host}/ysso/api/User/GetUserInfo";
         var queryParams = new Dictionary<string, string>{ 
             { "acctId", "<Your account ID>" } //acctId attribute from login interface
         };
